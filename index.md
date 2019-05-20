@@ -1,3 +1,3 @@
 # Homo Page
 
-FILLER TEXT LMAO
+[Click Here to Se the Repo, kay?](https://github.com/Michaelrappa/dh-class3)
